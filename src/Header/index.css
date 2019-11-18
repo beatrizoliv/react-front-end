@@ -1,0 +1,27 @@
+.head {
+    padding: 40px;
+    text-align: center;
+    align-content: center;
+    background: #1A2526;
+    color: white;
+    margin:0;
+    font-size: 50px;
+    height: 110px;
+    font-family: fantasy;
+  }
+.h1-header {
+    color: #fff;
+}
+.img-header {
+    width:100%;
+}
+body {
+    margin:0px;
+}
+
+.presentation {
+    display: absolute;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
