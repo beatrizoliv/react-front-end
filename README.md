@@ -1,40 +1,4 @@
 # Front-End Challenge
-This is a challenge to assert your level and way of thinking, don't spend to much time on it if you get stuck.
-Let us know how long you worked on test when sending it back.
-
-## Guidelines
-
-- Make sure you have `git`, `node`, and `npm` or `yarn` installed locally
-- Clone this repo (do **not** fork it)
-- Solve the levels in ascending order
-- Only do one commit per level and include the `.git` directory when submitting your test
-- To start the app:
-- run `yarn install` or `npm install`
-- run `yarn start` or `npm run start`
-- Edit files in `./src`
-
-## Pointers
-
-You can have a look at the higher levels, but please do the simplest thing that could work for the level you're currently solving.
-
-We are interested in seeing code that is clean, extensible and robust, so don't overlook edge cases.
-
-Please also note that all prices are stored as integers (in cents). Do not forget to format them if needed.
-
-We don't expect you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Getaround or anywhere else!
-
-This test is oriented towards React and Typescript. If you want or need to add something to the setup, you'll find info on how to set it up in [Parcel's documentation](https://en.parceljs.org/recipes.html).
-
-## Sending Your Results
-
-Once you are done, please send your results to the person you are in touch with. (Remember, it should not be a fork).
-
-You can send your Github project link or zip your directory and send it via email.
-If you do not use Github, don't forget to attach your `.git` folder.
-
-Good luck!
-
----
 
 ## Challenge
 
